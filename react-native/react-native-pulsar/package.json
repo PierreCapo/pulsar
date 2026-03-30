@@ -14,12 +14,7 @@
     "./package.json": "./package.json"
   },
   "files": [
-    "src",
-    "lib",
-    "android",
-    "ios",
     "cpp",
-    "deps",
     "*.podspec",
     "react-native.config.js",
     "!ios/build",
